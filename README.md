@@ -1,16 +1,20 @@
-# Cheat Sheet — szybkie rozwidlenie
-
-Repozytorium zawiera krótkie cheat sheety i linki pomocne przy pracy z listami i gotowymi zbiorami (wordlists, skrypty itp.).
+# Cheat Sheet 
 
 ## Spis treści
-- [Instrukcja: Listy w HTML (`html.md`)](html.md) — jak poprawnie używać list w HTML, przykłady i dobre praktyki.
-- Zewnętrzne zasoby:
-  - [SecLists — Daniel Miessler](https://github.com/danielmiessler/SecLists)  
-    Kolekcja słowników i list do testów bezpieczeństwa: wordlists, usernames, passwords, payloady. Przydatne przy pentestach i fuzzingu.
-  - [Microsoft-Activation-Scripts — massgravel](https://github.com/massgravel/Microsoft-Activation-Scripts)  
-    Zbiór skryptów powiązanych z aktywacją i zarządzaniem licencjami Microsoft — używaj ostrożnie i tylko jeśli wiesz co robisz.
+- [Instrukcja: Listy w HTML (`html.md`)](html.md) — Listy html.
 
+- Linki:
+  - [SecLists — Daniel Miessler](https://github.com/danielmiessler/SecLists)  
+    WordlListy
+  - [Microsoft-Activation-Scripts — massgravel](https://github.com/massgravel/Microsoft-Activation-Scripts)  
+    Aktywacjia windowsa
+  - [WorldLists - PSZMAJ](https://github.com/PSZMAJ/WORDLISTS)
+     Polskie hasła
+  - [uiverse.io](https://uiverse.io)
+    Strona z gotowymi elementami
+  - [w3school](https://www.w3schools.com)
+    wszystko co trzeba wiedzieć
+  
 ---
 
 > Krótko: jeśli chcesz szybko przejść do przykładu HTML — kliknij `html.md`.  
-> Linki zewnętrzne są tu dla wygody — sprawdź licencje i używaj zgodnie z prawem.
