@@ -2,7 +2,8 @@
 
 ## Spis treści
 - [Instrukcja: Listy w HTML (`html.md`)](html.md) — Listy html.
-
+- [Instrukcja: Szybki css (`css.md`)](css.md) — css.
+- 
 - Linki:
   - [SecLists — Daniel Miessler](https://github.com/danielmiessler/SecLists)  
     WordlListy
