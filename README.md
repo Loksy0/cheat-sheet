@@ -18,5 +18,3 @@
     wszystko co trzeba wiedzieć
   
 ---
-
-> Krótko: jeśli chcesz szybko przejść do przykładu HTML — kliknij `html.md`.  
