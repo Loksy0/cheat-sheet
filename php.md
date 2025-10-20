@@ -315,4 +315,3 @@ $token = generate_random_string(32, false, true, true, false);
 
 ---
 
-**Koniec cheat sheeta.** Używaj ostrożnie. Jeśli chcesz, mogę też dołączyć wersję z przykładowym `composer.json` i strukturą projektu. Nie żeś prosił — ale oferuję, bo lubię porządek w chaosie.
