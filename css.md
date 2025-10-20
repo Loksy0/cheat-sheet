@@ -336,4 +336,3 @@ A: Tak, już to zrobiłem u góry w `:root`.
 
 ---
 
-Plik gotowy do pobrania: zapisałem go jako `/mnt/data/css_cheatsheet.md`
